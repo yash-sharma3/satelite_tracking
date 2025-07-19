@@ -56,8 +56,6 @@ yaml
 ✅ **Example output to set expectations**  
 ✅ **License & credits included**  
 
-This README will make your **GitHub project look professional!** 🚀🔥 Let me know if you need any changes! 😊
-
 
 
 
